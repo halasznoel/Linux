@@ -1,0 +1,43 @@
+Letöltések
+Linux telepítők .iso:
+Kali Linux  19.3 2019  (Kicsit még  "Debianos" forma)
+
+https://drive.google.com/file/d/1FFXan6FxStsap0ekYIOQd7mvEL5Ggf4D/view?usp=sharing
+
+Ubuntu Asztali 18.04.4
+
+https://drive.google.com/file/d/1zmOZA804SozhTnVWT-J62Ntzhw4MO_ta/view?usp=sharing
+
+Ubuntu Linux SERVER 18.04
+
+https://drive.google.com/file/d/1XvOjtQDUvevdG6ON4cJAQk04zlwXMi7e/view?usp=sharing
+
+CentOs 8.2  Full telepítő
+
+https://drive.google.com/file/d/1bddfvghwn8bKQu5S-BBegj0YLxYXQEWI/view?usp=sharing
+
+Importálható  image .ova:
+
+Linux vizsga 2020 február .ova image
+
+https://drive.google.com/file/d/1pSwKW7RtIfv6hRSPEDSVKyfFPrLPkzFU/view?usp=sharing
+
+Ubuntu Asztali  minimal edition ova
+
+https://drive.google.com/file/d/1pXRzTia0rGqW3zDBJELtrZsT4Gaybjb9/view?usp=sharing
+
+Egyéb:
+
+Virtuális gép Windows
+
+Oracle VirtualBox for Windows
+
+és (fontos!) VirtualBox Extension Pack
+
+https://download.virtualbox.org/virtualbox/6.1.14/Oracle_VM_VirtualBox_Extension_Pack-6.1.14.vbox-extpack
+
+PuTTy SSH kliens (win, nem telepítő csak exe)
+
+https://drive.google.com/file/d/1l9Z4LqxVMc0ldrvCDDvom6L2rrb5qgY-/view?usp=sharing
+
+Utolsó módosítás: 2020. September 16., Wednesday, 05:42
